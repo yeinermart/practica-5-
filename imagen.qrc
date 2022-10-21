@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>objectos/laberinto.txt</file>
+        <file>objectos/pared.png</file>
+        <file>objectos/puerta.png</file>
+        <file>objectos/punto.png</file>
+        <file>objectos/super_punto.png</file>
+    </qresource>
+    <qresource prefix="/n">
+        <file>pacman/a1.png</file>
+        <file>pacman/a2.png</file>
+        <file>pacman/a3.png</file>
+        <file>pacman/a4.png</file>
+        <file>pacman/a5.png</file>
+        <file>pacman/a6.png</file>
+        <file>pacman/b2.png</file>
+        <file>pacman/b3.png</file>
+        <file>pacman/b4.png</file>
+        <file>pacman/b5.png</file>
+        <file>pacman/b6.png</file>
+        <file>pacman/c2.png</file>
+        <file>pacman/c3.png</file>
+        <file>pacman/c4.png</file>
+        <file>pacman/c5.png</file>
+        <file>pacman/c6.png</file>
+        <file>pacman/d2.png</file>
+        <file>pacman/d3.png</file>
+        <file>pacman/d4.png</file>
+        <file>pacman/d5.png</file>
+        <file>pacman/d6.png</file>
+    </qresource>
+</RCC>
